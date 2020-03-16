@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Sorteador\Sorteador\bin\Debug\Sorteador.exe.config
+C:\Users\andre\source\repos\Sorteador\Sorteador\bin\Debug\Sorteador.exe
+C:\Users\andre\source\repos\Sorteador\Sorteador\bin\Debug\Sorteador.pdb
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.Form1.resources
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.Properties.Resources.resources
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.exe
+C:\Users\andre\source\repos\Sorteador\Sorteador\obj\Debug\Sorteador.pdb
